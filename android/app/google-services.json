@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1043516900544",
+    "project_id": "loginpage-102b3",
+    "storage_bucket": "loginpage-102b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043516900544:android:608d935cdc3bfa44bfd925",
+        "android_client_info": {
+          "package_name": "com.example.login_page_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043516900544-ut0p76tsg0dk72r0pn6hmpvatuncb8kj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login_page_auth",
+            "certificate_hash": "f8a9bab1407cafeaeacbef6c974c83ab4a672b03"
+          }
+        },
+        {
+          "client_id": "1043516900544-nsm5gnlm2ujcnuojes6u32i1j0makafi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFeE-CLWHPUNyZjZgNpOEvruHsEKqHBpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043516900544-nsm5gnlm2ujcnuojes6u32i1j0makafi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043516900544:android:a8edce305890c3dcbfd925",
+        "android_client_info": {
+          "package_name": "com.example.modernlogintute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043516900544-nsm5gnlm2ujcnuojes6u32i1j0makafi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFeE-CLWHPUNyZjZgNpOEvruHsEKqHBpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043516900544-nsm5gnlm2ujcnuojes6u32i1j0makafi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
